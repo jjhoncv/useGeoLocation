@@ -1,0 +1,28 @@
+{
+  "name": "usegeolocation",
+  "version": "1.0.0",
+  "description": "hook react for get location by IP",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjhoncv/useGeoLocation.git"
+  },
+  "keywords": [
+    "hook",
+    "react",
+    "location",
+    "IP"
+  ],
+  "author": "Jhonnatan Castro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjhoncv/useGeoLocation/issues"
+  },
+  "homepage": "https://github.com/jjhoncv/useGeoLocation#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
